@@ -1,5 +1,6 @@
 {
   "name": "demo02",
+  "nothing": null,
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
